@@ -1,0 +1,36 @@
+[
+  {
+    "transaction_id": "TXN1001",
+    "amount": 250.00,
+    "country": "United Kingdom",
+    "timestamp": "2026-06-20T14:30:00",
+    "customer_id": "CUST001"
+  },
+  {
+    "transaction_id": "TXN1002",
+    "amount": 15000.00,
+    "country": "United Kingdom",
+    "timestamp": "2026-06-20T11:00:00",
+    "customer_id": "CUST002"
+  },
+  {
+    "transaction_id": "TXN1003",
+    "amount": 500.00,
+    "country": "North Korea",
+    "timestamp": "2026-06-20T09:15:00",
+    "customer_id": "CUST003"
+  },
+  {
+    "transaction_id": "TXN1004",
+    "amount": 320.00,
+    "country": "United Kingdom",
+    "timestamp": "2026-06-21T02:30:00",
+    "customer_id": "CUST004"
+  },
+  {
+    "transaction_id": "TXN1005",
+    "amount": 100.00,
+    "country": "United Kingdom",
+    "timestamp": "2026-06-21T16:00:00"
+  }
+]
